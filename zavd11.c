@@ -46,7 +46,7 @@ int main(){
             printf("\n");
     }
     
-	printf("\nThe result of multiplying:\n");
+	printf("\nThe result of multiplying: \n");
     
 	for (i = 0; i < N; i++){
         for (j = 0; j < N; j++)
